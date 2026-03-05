@@ -1,5 +1,5 @@
 package pl.exceptionhandled.jobqueue.core;
 
 public enum JobStatus {
-    QUEUED, RUNNING, SUCCESS, FAILED
+    QUEUED, RUNNING, SUCCESS, FAILED,
 }
